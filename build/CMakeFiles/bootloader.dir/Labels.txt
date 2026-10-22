@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/duruofu/practice/Energy_saving_system/build/CMakeFiles/bootloader
+/home/duruofu/practice/Energy_saving_system/build/CMakeFiles/bootloader.rule
+/home/duruofu/practice/Energy_saving_system/build/CMakeFiles/bootloader-complete.rule
+/home/duruofu/practice/Energy_saving_system/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/duruofu/practice/Energy_saving_system/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/duruofu/practice/Energy_saving_system/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/duruofu/practice/Energy_saving_system/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/duruofu/practice/Energy_saving_system/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/duruofu/practice/Energy_saving_system/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/duruofu/practice/Energy_saving_system/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,31 @@
+menu "Energy Saving System Configuration"
+
+    config WIFI_SSID
+        string "WiFi SSID"
+        default "myssid"
+        help
+            Your WiFi router SSID.
+
+    config WIFI_PASSWORD
+        string "WiFi Password"
+        default "mypassword"
+        help
+            Your WiFi router Password.
+
+    config LIGHT_THRESHOLD
+        int "Light Sensor Bright Threshold (ADC Raw)"
+        range 0 4095
+        default 2000
+        help
+            The ADC value threshold above which the light is considered ON.
+            You may need to calibrate this based on your specific hardware.
+
+    config WEATHER_CITY_CODE
+        string "Weather City Code"
+        default "101280101"
+        help
+            City code for weather API (Default is Guangzhou). 
+            You can find more codes online.
+
+endmenu
+

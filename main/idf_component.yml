@@ -1,0 +1,4 @@
+# main/idf_component.yml
+dependencies:
+  espressif/cjson: "^1.7.19"
+  

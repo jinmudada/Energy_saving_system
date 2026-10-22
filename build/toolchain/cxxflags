@@ -1,0 +1,4 @@
+-march=rv32imc_zicsr_zifencei
+-mtune=esp-base
+"-specs=/home/duruofu/practice/Energy_saving_system/build/specs/picolibc.specs"
+-fno-rtti
